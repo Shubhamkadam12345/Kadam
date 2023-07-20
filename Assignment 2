@@ -1,0 +1,835 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "ea452dfd-ca51-4be4-96e6-292c78a7be84",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (4045738143.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[4], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q.1\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q.1"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "f8cd8db1-497c-4a04-9753-35a99b437254",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (46866831.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[5], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    single Line, Multi Line comment and documention strings\u001b[0m\n\u001b[0m           ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "single Line, Multi Line comment and documention strings"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "4d6bb974-2596-4a94-9db5-b6e43118f1ba",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "IndentationError",
+     "evalue": "unexpected indent (3661015138.py, line 2)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[6], line 2\u001b[0;36m\u001b[0m\n\u001b[0;31m    Def my- function (A,B)\u001b[0m\n\u001b[0m    ^\u001b[0m\n\u001b[0;31mIndentationError\u001b[0m\u001b[0;31m:\u001b[0m unexpected indent\n"
+     ]
+    }
+   ],
+   "source": [
+    "pytho\n",
+    "     Def my- function (A,B)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "1689bf26-f176-49bf-9fdd-a02e1bae16c5",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid decimal literal (2801353173.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[7], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    a= 2a\u001b[0m\n\u001b[0m       ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid decimal literal\n"
+     ]
+    }
+   ],
+   "source": [
+    "a= 2a"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "6d063921-54d2-40ac-a849-8925695bdd9f",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "NameError",
+     "evalue": "name 'b' is not defined",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[8], line 1\u001b[0m\n\u001b[0;32m----> 1\u001b[0m b\u001b[38;5;241m=\u001b[39m\u001b[43mb\u001b[49m\u001b[38;5;241m*\u001b[39m\u001b[38;5;241m*\u001b[39m\u001b[38;5;241m2\u001b[39m\n",
+      "\u001b[0;31mNameError\u001b[0m: name 'b' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "b= b**2"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "9664b442-ffd8-409c-bc3e-e7cb0d752506",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "NameError",
+     "evalue": "name 'a' is not defined",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[9], line 1\u001b[0m\n\u001b[0;32m----> 1\u001b[0m c\u001b[38;5;241m=\u001b[39m (\u001b[43ma\u001b[49m\u001b[38;5;241m+\u001b[39mb)\u001b[38;5;241m/\u001b[39ma\n",
+      "\u001b[0;31mNameError\u001b[0m: name 'a' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "c= (a+b)/a"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "93e1ceb7-c347-4138-9ef4-0dd1f1e1f7d0",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (2799088743.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[10], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    my list=[]\u001b[0m\n\u001b[0m       ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "my list=[]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "1cdb53d1-bd06-41a1-a7aa-22cbadf214ec",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "count=0"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "8f008f82-b9a0-4acc-8dad-32554a2cb8c8",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid decimal literal (3905441185.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[12], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    while count :=1o\u001b[0m\n\u001b[0m                  ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid decimal literal\n"
+     ]
+    }
+   ],
+   "source": [
+    "while count :=1o\n",
+    "   my list append (c)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "8d170fd4-c33e-4765-bec0-159d84abdc0c",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (1874006548.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[13], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q.2\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q.2 "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "091471af-1b94-4af7-b78f-fdb05905c660",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (3882377102.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[14], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    The assignment operator denoted by the \"=\" symbol is the operator that used to assign value to variables is python\u001b[0m\n\u001b[0m        ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "The assignment operator denoted by the \"=\" symbol is the operator that used to assign value to variables is python"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "id": "f769caf2-1137-4d61-a3d3-24ab661a18f0",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=5"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 16,
+   "id": "a6c88e2d-3273-4fe4-94ae-0cf83847b8e5",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "b=\" JOhn\" "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "id": "bb1ad785-356c-498b-8ae4-11ba70de7f21",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "abc= {1,2,3,4,5}"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "id": "9c82d87a-a726-4f9e-878d-934c42c7a313",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (246002609.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[18], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    my list= [\"x\", \"yy\", \"zzz\"]\u001b[0m\n\u001b[0m       ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "my list= [\"x\", \"yy\", \"zzz\"]"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "de0acb5d-8f03-492b-96c6-0477ad4acbcf",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "Q.3"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "id": "d9ab8eb2-16d4-4eaf-88d3-b0692b4c68df",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (2115483667.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[20], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Python code to demonastrate ty\u001b[0m\n\u001b[0m           ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Python code to demonastrate ty\n",
+    "using tuple (), set (( list()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 21,
+   "id": "8af383f4-07fd-4df8-99e5-a073fcc514be",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (2256837477.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[21], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    intitializing string\u001b[0m\n\u001b[0m                  ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "intitializing string\n",
+    "  s= : grecks:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 22,
+   "id": "5c5a6a66-92f5-4202-bf91-9612b1ffc514",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "unterminated string literal (detected at line 3) (477425218.py, line 3)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[22], line 3\u001b[0;36m\u001b[0m\n\u001b[0;31m    print (\" Aftern converting string print (c)\u001b[0m\n\u001b[0m           ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m unterminated string literal (detected at line 3)\n"
+     ]
+    }
+   ],
+   "source": [
+    "printing string converting to \n",
+    "  c=tuple (s)\n",
+    "    print (\" Aftern converting string print (c) "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 23,
+   "id": "faff4e76-9f4a-43d4-bf4d-1d48366dcc2c",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (3452747313.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[23], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    printing string converting to\u001b[0m\n\u001b[0m             ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "printing string converting to \n",
+    "  c= set (s)\n",
+    "    print (: After converting string \n",
+    "           print (C)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 24,
+   "id": "b9651c65-a115-409b-9f4c-95e18b4417cb",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (386213954.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[24], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    printing string converting to c= list (c)\u001b[0m\n\u001b[0m             ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "printing string converting to c= list (c)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 25,
+   "id": "8b11a6ee-741f-4ae1-9fe6-5f06ac00a400",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (1620553209.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[25], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q.4\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q.4 "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 27,
+   "id": "0e71a6c2-7099-4316-ab95-0d5066864e93",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (883596180.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[27], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    \"name\" \" python \" current file\u001b[0m\n\u001b[0m                      ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "\"name\" \" python \" current file \n",
+    ": type python \n",
+    "request launch\n",
+    "program \"  main py\"\n",
+    "console intergrated terminal \n",
+    "args [\\\\ hello]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 28,
+   "id": "3792b9bb-c483-48b1-979e-0e9dfa9c09e1",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (2075653784.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[28], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q.5\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q.5"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 29,
+   "id": "7016d27a-0366-4d2d-9018-9fcb69dd7748",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "NameError",
+     "evalue": "name 'sting' is not defined",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[29], line 1\u001b[0m\n\u001b[0;32m----> 1\u001b[0m \u001b[43msting\u001b[49m \n",
+      "\u001b[0;31mNameError\u001b[0m: name 'sting' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "sting "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 30,
+   "id": "9187cc62-a087-433d-9e25-ce3be6fe31bd",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "unterminated string literal (detected at line 1) (1740430386.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[30], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    name= \" simpliearn\u001b[0m\n\u001b[0m          ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m unterminated string literal (detected at line 1)\n"
+     ]
+    }
+   ],
+   "source": [
+    "name= \" simpliearn\n",
+    "  print (name [1:2:]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 31,
+   "id": "9ccb562d-571d-4cdb-813b-d773ab3514c2",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "IndentationError",
+     "evalue": "unexpected indent (3308227795.py, line 2)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[31], line 2\u001b[0;36m\u001b[0m\n\u001b[0;31m    1st = [1,2,3,4,5,6,7]\u001b[0m\n\u001b[0m    ^\u001b[0m\n\u001b[0;31mIndentationError\u001b[0m\u001b[0;31m:\u001b[0m unexpected indent\n"
+     ]
+    }
+   ],
+   "source": [
+    "list \n",
+    "  1st = [1,2,3,4,5,6,7]\n",
+    "    print (1st [ -6: -1: 2]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 32,
+   "id": "0b1e4767-796f-463f-bde4-706b65e9f637",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "IndentationError",
+     "evalue": "unexpected indent (1058670330.py, line 2)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[32], line 2\u001b[0;36m\u001b[0m\n\u001b[0;31m    tpl = (1,2,3,4,5,6,7)\u001b[0m\n\u001b[0m    ^\u001b[0m\n\u001b[0;31mIndentationError\u001b[0m\u001b[0;31m:\u001b[0m unexpected indent\n"
+     ]
+    }
+   ],
+   "source": [
+    "tuple \n",
+    "   tpl = (1,2,3,4,5,6,7)\n",
+    "      print ( tpl[ -4: -1: 2])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 33,
+   "id": "e493212f-4bd0-4c89-8294-e6e8a4b4b1a2",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (2603994327.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[33], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q.6\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q.6"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 35,
+   "id": "2e0b0a79-c37f-4b80-a188-c4a324151c9a",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (2213058090.py, line 4)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[35], line 4\u001b[0;36m\u001b[0m\n\u001b[0;31m    d= b*b-4 a*c\u001b[0m\n\u001b[0m             ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "a= int \n",
+    "b= int\n",
+    "c=int \n",
+    "d= b*b-4 a*c\n",
+    "    sol 1= -b/ (2*a)\n",
+    "    sol 2 maths sqrt (-d) / 2*a\n",
+    "    print ( The solution are :\\n;\n",
+    "           complet ( sol 1, - sol2)\n",
+    "           "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 36,
+   "id": "148fbe10-6182-4850-aab4-86ae5a328dc7",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (369254334.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[36], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q.7\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q.7 "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 38,
+   "id": "7d24684d-1b33-4e6b-adf0-76526af2356a",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "IndentationError",
+     "evalue": "unindent does not match any outer indentation level (<tokenize>, line 4)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  File \u001b[0;32m<tokenize>:4\u001b[0;36m\u001b[0m\n\u001b[0;31m    elif 25 ==26 - 35\" :\u001b[0m\n\u001b[0m    ^\u001b[0m\n\u001b[0;31mIndentationError\u001b[0m\u001b[0;31m:\u001b[0m unindent does not match any outer indentation level\n"
+     ]
+    }
+   ],
+   "source": [
+    "def age (25)\n",
+    "      if 25 == 0-17\n",
+    "           return 17\n",
+    "    elif 25 ==26 - 35\" :\n",
+    "          return 35\n",
+    "    elif 25 == 36-45\n",
+    "    return 45\n",
+    "     elif 25 == 46-50\n",
+    "         return 50 \n",
+    "    elif 25 == 51- 55\n",
+    "        return 55"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 39,
+   "id": "499f47c9-5189-4b77-b0d4-b38775811439",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (391378030.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[39], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q.8\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q.8 "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 40,
+   "id": "e6029009-5995-45ef-a201-5f90f35f7d91",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "unexpected character after line continuation character (1930230415.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[40], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Number = int ( -20\\n)\u001b[0m\n\u001b[0m                       ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m unexpected character after line continuation character\n"
+     ]
+    }
+   ],
+   "source": [
+    "Number = int ( -20\\n)\n",
+    "print ( number ) # -20\n",
+    "print ( number) # 9"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 41,
+   "id": "c7eceb3a-fbfc-4fd0-80ee-ca969ac02a90",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (3331618787.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[41], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q.9\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q.9 "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 42,
+   "id": "1eec7a89-7dd7-43b5-a3cf-31c9ee7d85cd",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "IndentationError",
+     "evalue": "unexpected indent (1289150938.py, line 2)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[42], line 2\u001b[0;36m\u001b[0m\n\u001b[0;31m    found = false\u001b[0m\n\u001b[0m    ^\u001b[0m\n\u001b[0;31mIndentationError\u001b[0m\u001b[0;31m:\u001b[0m unexpected indent\n"
+     ]
+    }
+   ],
+   "source": [
+    "Name = [ shubham ] \n",
+    "  found = false \n",
+    "    for name in name \n",
+    "        if name start with ( \" s \" )\n",
+    "          print found = true \n",
+    "            break\n",
+    "        if not found\n",
+    "            print ( n )\n",
+    "             \n",
+    "            \n",
+    "        \n",
+    "        \n",
+    "          "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 43,
+   "id": "c3f3a5c7-b1da-4a82-b47a-541017acffd4",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (1031929472.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[43], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q. 10\u001b[0m\n\u001b[0m       ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q. 10 "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 44,
+   "id": "21737fc3-1f7e-42d3-97af-2f12291ebf8f",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (195603395.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[44], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Initiate a string\u001b[0m\n\u001b[0m             ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    " Initiate a string\n",
+    "    a- string = my tec bits \n",
+    "    \n",
+    "    "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 46,
+   "id": "d5a17b83-1cd8-4cf4-bc5f-8334f2752c46",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "IndentationError",
+     "evalue": "unexpected indent (1268701996.py, line 2)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[46], line 2\u001b[0;36m\u001b[0m\n\u001b[0;31m    sub- string = a string [ 4:]\u001b[0m\n\u001b[0m    ^\u001b[0m\n\u001b[0;31mIndentationError\u001b[0m\u001b[0;31m:\u001b[0m unexpected indent\n"
+     ]
+    }
+   ],
+   "source": [
+    "slice \n",
+    "  sub- string = a string [ 4:]\n",
+    "    print ( \\ n+ sub - string + '' \\n )"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 47,
+   "id": "0c068961-cc94-4845-87f3-ea21a974bebe",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (2760929968.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[47], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    Q.11\u001b[0m\n\u001b[0m     ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "Q.11"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 48,
+   "id": "2d46598d-5602-4f0c-bbb7-5024bbe1da17",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (2377268176.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[48], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    discrete variable\u001b[0m\n\u001b[0m             ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "discrete variable"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7776970b-9271-428b-bf6f-dc1b949f1ed8",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print * ==2 print out true\n",
+    "print * == 3"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.8"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
